@@ -514,7 +514,7 @@ docker exec -it container_id /bin/bash
 
 <div align="center">
 
-**Created with ❤️ by [Your Name/Username]**  
+**Created with ❤️ by [G.V. Sai Dutt]**  
 *Last Updated: March 13, 2025*
 
 </div>
